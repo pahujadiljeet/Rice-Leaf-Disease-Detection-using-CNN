@@ -31,6 +31,7 @@ This project uses a Convolutional Neural Network (CNN) trained on rice leaf data
 
 # 📂 Project Structure
 
+```bash
 Rice-Leaf-Disease-Detection-using-CNN/
 │
 ├── dataset/                # Collected dataset of rice leaf diseases
@@ -44,6 +45,7 @@ Rice-Leaf-Disease-Detection-using-CNN/
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 
+```
 ## 🎥 Demo Video  
 
 [![Watch the video](https://img.youtube.com/vi/-BfOz4UrpiM/0.jpg)](https://youtu.be/-BfOz4UrpiM)
